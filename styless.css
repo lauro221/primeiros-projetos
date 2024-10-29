@@ -1,0 +1,134 @@
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
+
+.poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+
+
+.poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+*  {margin:0 ;
+    padding: 0;
+     box-sizing: border-box;
+     font-family: "Poppins", sans-serif;
+     
+}
+
+header {
+    margin: 47px 21px 144px 76px
+}
+
+
+.link-header {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.875px;
+    text-align: center;
+    color: #17233d;
+    margin-right: 32px;
+
+
+}
+
+.BUtton-header {
+    background: #6FBF44;
+    border: 6px solid rgba(76, 181, 56, 1);
+    border-radius: 6px;
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 1px;
+    border: none;
+    color: #ffffff;
+}
+.imagem-logo {
+    margin: 163px 0 0 123px;
+    display: inline-block;
+    width: 533.83px;
+    height: 466.9px;
+    top: 277.2px;
+    left: 182.18px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+
+div{display: inline-block;
+
+
+}
+
+
+h1 {
+    display: inline-block;
+    width: 582px;
+    height: 164px;
+    top: 342px;
+    left: 801px;
+    gap: 0px;
+    opacity: 0px;
+
+
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.5961538553237915px;
+    text-align: top;
+
+
+
+
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #48505A;
+    width: 483px;
+
+
+}
+
+.button2 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 57px;
+    letter-spacing: 2px;
+    color: #6FBF44;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+
+
+
+
+
+
+}
